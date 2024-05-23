@@ -1,0 +1,10 @@
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+/mid/
+
+*.pkl
+
+*.zip
